@@ -72,6 +72,7 @@ This tutorial demonstrates how to setup an Azure Virtual Machine (VM) and use Wi
 </p>
 <br />
 
+<h2>VM Access Steps</h2>
 <p>
 <img src="https://i.imgur.com/SeLhFq2.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/O460gZt.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
