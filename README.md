@@ -1,4 +1,4 @@
-# Azure-Virtual-Machine
+# Azure Virtual Machine
 
 
 <p align="center">
@@ -11,7 +11,7 @@ This tutorial demonstrates how to setup an Azure Virtual Machine (VM) and use Wi
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure
 - Remote Desktop
 
 <h2>Operating Systems Used </h2>
@@ -62,7 +62,7 @@ This tutorial demonstrates how to setup an Azure Virtual Machine (VM) and use Wi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZByAEPt.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/DJmEXEB.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
