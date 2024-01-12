@@ -33,7 +33,7 @@ This tutorial demonstrates how to setup an Azure Virtual Machine (VM) and use Wi
 <img src="https://i.imgur.com/OYHF6ua.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1. From Azure Hompage, select Virtual Machine. 
+1. From Azure Hompage, select Virtual machines. 
   
 2. Select Creat and choose Azure virtual machine
 </p>
