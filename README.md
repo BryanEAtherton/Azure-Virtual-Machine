@@ -66,7 +66,7 @@ This tutorial demonstrates how to setup an Azure Virtual Machine (VM) and use Wi
 <img src="https://i.imgur.com/e826w1a.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-7. Check the box to confirm licensing and select 'Review + create'
+7. Check the box to confirm licensing and select Review + create
   
   8. Once Validation has passed select the Create button
 </p>
@@ -78,7 +78,7 @@ This tutorial demonstrates how to setup an Azure Virtual Machine (VM) and use Wi
 <img src="https://i.imgur.com/O460gZt.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-9. VM info page
+9. Navigate to the VM information in Azure and locate the Public IP Adress
 
   10. use ip address to remote connect to the VM
 </p>
