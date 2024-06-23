@@ -30,7 +30,7 @@ This tutorial demonstrates how to setup an Azure Virtual Machine (VM) and use Wi
 <p>
 1. From Azure Hompage, select Virtual machines. 
   
-2. Select Creat and choose Azure virtual machine
+2. Select Create and choose Azure virtual machine
 </p>
 <br />
 
