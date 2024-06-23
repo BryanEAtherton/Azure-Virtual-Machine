@@ -75,7 +75,7 @@ This tutorial demonstrates how to setup an Azure Virtual Machine (VM) and use Wi
 <p>
 9. Navigate to the VM information in Azure and locate the Public IP Adress
 
-  10. use ip address to remote connect to the VM
+  10. Use ip address to remote connect to the VM
 </p>
 <br />
 
@@ -84,7 +84,7 @@ This tutorial demonstrates how to setup an Azure Virtual Machine (VM) and use Wi
 <img src="https://i.imgur.com/xHJ2rDu.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-11. Enter username and Password from setup (Step 6)
+11. Enter username and password from setup (Step 6)
 
   12. Remote Desktop Home screen
 </p>
