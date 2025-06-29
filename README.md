@@ -6,7 +6,7 @@
 </p>
 
 <h1>Azure Virtual Machine Setup and Access</h1>
-This tutorial demonstrates how to setup an Azure Virtual Machine (VM) and use Windows Remote Desktop to access it.<br />
+This tutorial demonstrates how to set up an Azure Virtual Machine (VM) and use Windows Remote Desktop to access it.<br />
 
 
 <h2>Environments and Technologies Used</h2>
